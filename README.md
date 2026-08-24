@@ -1,23 +1,15 @@
-# PAN DE VIDA V6
+# PAN DE VIDA V7
 
-Proyecto web listo para GitHub Pages.
+Versión con navegación por pantallas independientes.
 
-## Estructura
-- index.html
-- styles.css
-- app.js
-- manifest.json
-- sw.js
-- icono.jpg
-- concha-pan.glb
-- audio/intro.mp3
+Apartados:
+- Inicio
+- Nuestra tienda
+- Nuestra historia
+- Contacto
+
+Cada apartado ocupa la pantalla y cambia mediante una transición elegante.
+Se conservan las funciones de V6: intro, audio, logo, carrito, PWA y modelo 3D.
 
 ## GitHub Pages
-Sube TODO el contenido de esta carpeta a la raíz del repositorio y activa:
-Settings → Pages → Deploy from a branch → main → /(root).
-
-La página usa rutas relativas (`./...`) para funcionar correctamente dentro de un repositorio como:
-https://pandevida-web.github.io/pan-de-vida/
-
-## Modelo 3D
-El visor usa <model-viewer> desde jsDelivr. El archivo `concha-pan.glb` se carga localmente desde el repositorio.
+Sube el CONTENIDO de esta carpeta a la raíz de tu repositorio.
