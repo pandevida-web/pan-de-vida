@@ -1,15 +1,10 @@
-# PAN DE VIDA V7
+# PAN DE VIDA V8
 
-Versión con navegación por pantallas independientes.
+Incluye el carro personalizado `iconocarro.png` en la barra de carga y conserva `iconocarro.jpeg` original.
+La interfaz fue reforzada para adaptarse a iPhone, Android, tablets, laptops y monitores grandes.
 
-Apartados:
-- Inicio
-- Nuestra tienda
-- Nuestra historia
-- Contacto
+Para GitHub Pages: sube el contenido de esta carpeta a la raíz del repositorio.
 
-Cada apartado ocupa la pantalla y cambia mediante una transición elegante.
-Se conservan las funciones de V6: intro, audio, logo, carrito, PWA y modelo 3D.
 
-## GitHub Pages
-Sube el CONTENIDO de esta carpeta a la raíz de tu repositorio.
+## V9
+El logotipo de la intro fue ampliado y centrado para coincidir con la proporción visual de la referencia móvil, con ajustes responsive para móvil, tablet y PC.
